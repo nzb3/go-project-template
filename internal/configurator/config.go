@@ -3,7 +3,7 @@ package configurator
 import (
 	"github.com/spf13/viper"
 
-	"go-project-template/internal/validator"
+	"github.com/nzb3/go-project-template/internal/validator"
 )
 
 type Configurator struct {

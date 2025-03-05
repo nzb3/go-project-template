@@ -6,7 +6,7 @@ import (
 	"github.com/nzb3/closer"
 	"golang.org/x/sync/errgroup"
 
-	"go-project-template/internal/configurator"
+	"github.com/nzb3/go-project-template/internal/configurator"
 )
 
 type App struct {

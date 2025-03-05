@@ -4,7 +4,7 @@ import (
 	"context"
 	"log"
 
-	"go-project-template/internal/app"
+	"github.com/nzb3/go-project-template/internal/app"
 )
 
 func main() {
